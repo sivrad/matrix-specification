@@ -23,7 +23,7 @@ The other files in the repository allow for the automated process of package gen
 
 #### Publication
 
-The publication of packages will be handeled automatically with Github actions. Each collection repository will include the package `@sivrad/collection-cd`, which handels all continues deployment before it publishes it to the NPM registry. This package will generate Typescript classes bases on the `./types/*.json` types.
+The publication of packages will be handeled automatically with Github actions. Each collection repository will include the package `@sivrad/collection-cd`, which handels all continues deployment before it publishes it to the NPM registry. This package will generate Typescript classes based on the `./types/*.json` types.
 
 ## Skillset Workflow
 
